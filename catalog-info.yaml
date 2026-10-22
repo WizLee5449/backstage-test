@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test
+  description: Backstage POC 测试用
+spec:
+  type: service
+  owner: developer-platform
+  lifecycle: experimental
